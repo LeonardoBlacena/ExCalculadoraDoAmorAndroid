@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Calculadora Do Amor</string>
+    <string name="et_nomecrush">Digite o nome do crush</string>
+    <string name="et_seunome">Digite o seu nome</string>
+    <string name="btn_botao">Ok</string>
+    <string name="tv_resposta" />
+    <string name="tv_resposta1">Signo do Crush</string>
+    <string name="tv_resposta2">Seu Signo</string>
+    <string name="rb_masculino">Maculino</string>
+    <string name="rb_feminino">Feminino</string>
+    <string name="btn_testenome">Teste Por Nome</string>
+    <string name="btn_calculonome">Calcular</string>
+    <string name="btn_telasigno">Teste Por Signo</string>
+    <string name="btn_calculosigno">Calcular</string>
+    <string name="btn_testecapilar">Teste Capilar</string>
+    <string name="btn_testeidade">Teste Por Idade</string>
+    <string name="btn_testecorolhos">Teste Por Cor Dos Olhos</string>
+    <string name="btn_calculocabelo">Calcular</string>
+    <string name="et_cabelo">Cor do seu cabelo:</string>
+    <string name="et_cabelocrush">Cor do cabelo do crush:</string>
+    <string name="et_idade">Digite sua idade</string>
+    <string name="et_idadecrush">Digite a idade do crush</string>
+    <string name="btn_calculoidade">Calcular</string>
+    <string-array name="sp_signo">
+        <item>Não Sei</item>
+        <item>Aquário</item>
+        <item>Peixes</item>
+        <item>Áries</item>
+        <item>Touro</item>
+        <item>Gêmeos</item>
+        <item>Câncer</item>
+        <item>Leão</item>
+        <item>Virgem</item>
+        <item>Libra</item>
+        <item>Escorpião</item>
+        <item>Sargitário</item>
+        <item>Capricórnio</item>
+    </string-array>
+    <string-array name="sp_signo2">
+        <item>Não Sei</item>
+        <item>Aquário</item>
+        <item>Peixes</item>
+        <item>Áries</item>
+        <item>Touro</item>
+        <item>Gêmeos</item>
+        <item>Câncer</item>
+        <item>Leão</item>
+        <item>Virgem</item>
+        <item>Libra</item>
+        <item>Escorpião</item>
+        <item>Sargitário</item>
+        <item>Capricórnio</item>
+    </string-array>
+
+    <string-array name="sp_cabelo">
+        <item>Loiro</item>
+        <item>Preto</item>
+        <item>Castanho</item>
+        <item>Ruivo</item>
+    </string-array>
+    <string-array name="sp_cabelocrush">
+        <item>Loiro</item>
+        <item>Preto</item>
+        <item>Castanho</item>
+        <item>Ruivo</item>
+    </string-array>
+</resources>
